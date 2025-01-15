@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **AutoGen, CrewAI, jQuery, nginx**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ghsaboias](https://github.com/ghsaboias)
-
-- 💬 Ask me about **React, LLM orchestration, AI agents**
+- 💬 Ask me about **LLM orchestration and AI agents**
 
 - 📫 How to reach me **gsaboia@yahoo.com**
 
