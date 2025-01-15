@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Saboia</h1>
-<h3 align="center">I'm an entrepreneur. My background is in economics and fullstack development. I am very (very) interested AI.</h3>
+<h3 align="center">I'm an entrepreneur. My background is in economics, crypto and fullstack development. I am very (very) interested AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghsaboias&label=Profile%20views&color=0e75b6&style=flat" alt="ghsaboias" /> </p>
 
