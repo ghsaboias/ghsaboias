@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [News Now](https://www.aiworld.com.br), building an AI-powered news portal
 
-- ⏯️ I recently built [Video Transcriber](https://github.com/ghsaboias/video-transcriber), a Python tool that locally transcribes YouTube videos using whisper.cpp and generates summaries using Claude AI
+- ⏯️ I recently built [Video Transcriber](https://github.com/ghsaboias/video-transcriber), a local video transcriber using whisper.cpp, with summarization using Claude
 
 - 🌱 I’m currently learning **AutoGen, CrewAI, jQuery and nginx**
 
