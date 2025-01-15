@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghsaboias&label=Profile%20views&color=0e75b6&style=flat" alt="ghsaboias" /> </p>
 
-- 🔭 I’m currently working on [News Now](https://www.aiworld.com.br)
+- 🔭 I’m currently working on [News Now](https://www.aiworld.com.br), building an AI-powered news portal
+
+- ⏯️ I recently built [Video Transcriber](https://github.com/ghsaboias/video-transcriber), an Python tool that locally transcribes YouTube videos using whisper.cpp and generates summaries using Claude AI
 
 - 🌱 I’m currently learning **AutoGen, CrewAI, jQuery, nginx**
 
