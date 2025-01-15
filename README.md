@@ -7,7 +7,7 @@
 
 - ⏯️ I recently built [Video Transcriber](https://github.com/ghsaboias/video-transcriber), a Python tool that locally transcribes YouTube videos using whisper.cpp and generates summaries using Claude AI
 
-- 🌱 I’m currently learning **AutoGen, CrewAI, jQuery, nginx**
+- 🌱 I’m currently learning **AutoGen, CrewAI, jQuery and nginx**
 
 - 💬 Ask me about **LLM orchestration and AI agents**
 
