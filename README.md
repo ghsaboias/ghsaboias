@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://ghsaboias-curriculum.web.val.run/](https://ghsaboias-curriculum.web.val.run/)
 
-- ⚡ Fun fact: **I can just do things**
+- ⚡ Fun fact: **You can just do things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
