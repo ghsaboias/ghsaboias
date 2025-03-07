@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghsaboias&label=Profile%20views&color=0e75b6&style=flat" alt="ghsaboias" /> </p>
 
-- 🔭 I’m currently working on [News Now](https://www.aiworld.com.br), building an AI-powered news portal
+- 🔭 I’m currently working on [AI World](https://www.aiworld.com.br), a portal for my projects
 
 - ⏯️ I recently built [Video Transcriber](https://github.com/ghsaboias/video-transcriber), a local video transcriber using whisper.cpp, with summarization using Claude
 
