@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on **[Fast Takeoff News](https://news.fasttakeoff.org)**, a news generator  
 - ⏯️ I recently built **[Video Transcriber](https://github.com/ghsaboias/video-transcriber)**, a local video transcriber using whisper.cpp, with summarization using Claude  
-- 🌱 I’m currently learning **AutoGen, CrewAI, jQuery, and nginx**  
+- 🌱 I’m currently learning about Cloudflare, agentic workflows and data pipelines that involve AI
 - 💬 Ask me about **LLM orchestration and AI agents**  
 - 📫 How to reach me: **gsaboia@yahoo.com**  
-- 📄 Know about my experiences: **[My Curriculum](https://ghsaboias-curriculum.web.val.run/)**  
+- 📄 Know about my experiences: **[My Curriculum](https://gsaboia.com/)**  
 - ⚡ Fun fact: **You can just do things**
 
 <h3 align="left">Connect with me:</h3>
