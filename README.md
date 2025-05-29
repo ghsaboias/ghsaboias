@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on **[Fast Takeoff News](https://news.fasttakeoff.org)**, a news generator  
 - ⏯️ I recently built **[Video Transcriber](https://github.com/ghsaboias/video-transcriber)**, a local video transcriber using whisper.cpp, with summarization using Claude  
-- 🌱 I’m currently learning about Cloudflare, agentic workflows and data pipelines that involve AI
+- 🌱 I’m currently learning **AutoGen, CrewAI, jQuery, and nginx**  
 - 💬 Ask me about **LLM orchestration and AI agents**  
 - 📫 How to reach me: **gsaboia@yahoo.com**  
-- 📄 Know about my experiences: **[My Curriculum](https://gsaboia.com/)**  
+- 📄 Know about my experiences: **[My Curriculum](https://ghsaboias-curriculum.web.val.run/)**  
 - ⚡ Fun fact: **You can just do things**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,41 +22,37 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <table>
+  <table align="center">
     <tr>
       <td>
         • Arduino<br>
         • Babel<br>
         • Bash<br>
+        • Cloudflare<br>
         • CSS3<br>
         • Cypress<br>
         • Docker<br>
         • Figma<br>
         • Flask<br>
-        • Git<br>
-        • Heroku
+        • Git
       </td>
       <td>
         • HTML5<br>
         • JavaScript<br>
         • Linux<br>
         • MATLAB<br>
-        • Mocha<br>
         • Next.js<br>
         • Nginx<br>
         • Node.js<br>
-        • Postman<br>
         • Python
       </td>
       <td>
+        • Puppeteer<br>
         • PyTorch<br>
         • React<br>
-        • Redux<br>
-        • Selenium<br>
         • SQLite<br>
         • Tailwind CSS<br>
         • TypeScript<br>
-        • Webpack<br>
         • Zapier
       </td>
     </tr>
