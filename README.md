@@ -30,10 +30,8 @@
         • Bash<br>
         • Cloudflare<br>
         • CSS3<br>
-        • Cypress<br>
         • Docker<br>
         • Figma<br>
-        • Flask<br>
         • Git
       </td>
       <td>
