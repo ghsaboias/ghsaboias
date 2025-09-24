@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ghsaboias&label=Profile%20views&color=0e75b6&style=flat" alt="ghsaboias" />
 </p>
 
-- 🔭 I’m currently working on **[Fast Takeoff News](https://news.fasttakeoff.org)**, a news generator  
+- 🔭 I’m currently working on **[Fast Takeoff News]([https://news.fasttakeoff.org](https://github.com/ghsaboias/news.fasttakeoff.org))**, a news generator  
 - ⏯️ I recently built **[Video Transcriber](https://github.com/ghsaboias/video-transcriber)**, a local video transcriber using whisper.cpp, with summarization using Claude  
 - 🌱 I’m currently learning **AutoGen, CrewAI, jQuery, and nginx**  
 - 💬 Ask me about **LLM orchestration and AI agents**  
